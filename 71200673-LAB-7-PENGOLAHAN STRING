@@ -1,0 +1,8 @@
+
+
+list=['es teh', 'es jeruk', 'air putih','jus alpukat','jus naga'] 
+list2=['mie goreng', 'mie rebus','nasi goreng','kentang goreng']
+print("minuman yang tersedia ada ",(len(list)))
+print(list[0:6]) 
+print("makanan yang tersedia ada ", (len(list2)))
+print(list2[0:5])
